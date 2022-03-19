@@ -2,8 +2,8 @@
 export const CLIENT_ID = "931605938000-h3ncbkbjnr4pp91240khg2bnbt0c8d14.apps.googleusercontent.com"; // GAPI CLIENT ID
 export const GOOGLE_MAPS_API_KEY = "AIzaSyCjcr4UkZIMv8ncU8-6_77Jk8q7IugpH0g"; // GOOGLE MAPS API KEY
 export const AWS_SERVER_DOMAIN = "https://www.onspot.click"; // HTTPS FLASK SERVER URL
-export const HOST_NAME = "https://kuluruvineeth.github.io"; // DEPLOYED REACT APP URL
-export const UA_LOGIN = "https://kuluruvineeth.github.io"; // UNAUTHORIZED LOGIN PAGE URL
+export const HOST_NAME = "https://kuluruvineeth.github.io/onspot"; // DEPLOYED REACT APP URL
+export const UA_LOGIN = "https://kuluruvineeth.github.io/onspot"; // UNAUTHORIZED LOGIN PAGE URL
 export const GET_ALL_REPORTS = AWS_SERVER_DOMAIN + "/api/reports/all";
 export const GET_USER_REPORTS = AWS_SERVER_DOMAIN + "/api/reports";
 export const SUBMIT_REPORT_COMMENT =
