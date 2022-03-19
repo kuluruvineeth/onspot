@@ -9,7 +9,7 @@ import DialogContent from "@material-ui/core/DialogContent";
 import DialogTitle from "@material-ui/core/DialogTitle";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import { useTheme } from "@material-ui/core/styles";
-import DetailedDataCard from "./../modal_data_card";
+import DetailedDataCard from "../modal_data_card";
 
 export default function DetailedDataModal(props) {
   const [open, setOpen] = React.useState(false);
