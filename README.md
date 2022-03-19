@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/TMh0Yb7/Onspot.png" width="206" height="206">
 
-# Onspot - Artificial Intelligence Powered Pothole Detection, Reporting and Management Solution
+# Onspot - An AI Powered Secured Utility Complaint System Cloud Computing
 
 ## Onspot Citizen Web/Mobile App
 
