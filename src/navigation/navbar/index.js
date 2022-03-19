@@ -154,7 +154,7 @@ export default function PersistentDrawerLeft() {
             </IconButton> */}
             <IconButton aria-label="GitHub" color="inherit">
               <a
-                href="https://github.com/kuluruvineeth/Onspot"
+                href="https://github.com/kuluruvineeth/onspot"
                 target="_blank"
                 rel="noopener noreferrer"
               >
