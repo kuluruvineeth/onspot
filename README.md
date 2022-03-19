@@ -2,7 +2,6 @@
 
 # Onspot - An AI Powered Secured Utility Complaint System Cloud Computing
 
-## Onspot Citizen Web/Mobile App
 
 
 ### Introduction
@@ -36,7 +35,7 @@
 #### Flask and Deep Learning Backend Repository 
 Link to Backend Source Code: https://github.com/kuluruvineeth/onspot.backend
 
-### Features of our application
+### Features of the Citizen's application
 | Feature Name | Screen Name |
 | --- | --- |
 | Report a Pothole (Using Camera, WebRTC)  | Report |
@@ -174,6 +173,9 @@ Link to Backend Source Code: https://github.com/kuluruvineeth/onspot.backend
 ### Instructions to Set-Up the Citizen Application
  * Follow the instructions on this page to install nodejs and npm. Once successfully done, proceed to the steps that follow.
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm.
+ * On your terminal.
+
+
 * Steps to be kept
 
 
