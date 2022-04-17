@@ -163,7 +163,7 @@ Link to Backend Source Code: https://github.com/kuluruvineeth/onspot.backend
 
 ### System Level Design 
 
-<img src="https://github.com/kuluruvineeth/onspot/blob/main/public/Screenshots/SystemDiagram/Citizen_App_System_Diagram_White_Bg.png"/>
+<img src="https://github.com/kuluruvineeth/onspot/blob/main/public/Screenshots/SystemDiagram/ONSPOT_Citizen.png" alt="Citizen"/>
 
   
 ### Technology Stack (For both Frontend and Backend)
