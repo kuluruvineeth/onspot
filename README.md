@@ -24,7 +24,7 @@
 ### Project URLs and Overview
 
 #### Application demo
-- Link to our demo application: [Onspot](https://drive.google.com/file/d/1vJKpptfbFEZm9mZFGpB1IJuM0eVFpSxD/view?usp=sharing)
+- Link to our demo application: [Onspot_Report](https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report.pdf)
 
 #### Presentation
 - Link to Google slides Presentation: [ONPSOT PRESENTATION](https://docs.google.com/presentation/d/11WXTHG384vmLA67QShnrbcqOba3xjXWjqkf6utVPv64/edit#slide=id.g111b81d1d86_3_5)
@@ -173,23 +173,10 @@ Link to Backend Source Code: https://github.com/kuluruvineeth/onspot.backend
 ### Instructions to Set-Up the Citizen Application
  * Follow the instructions on this page to install nodejs and npm. Once successfully done, proceed to the steps that follow.
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm.
- * On your terminal.
-
-
-* Steps to be kept
-
-
-
-
-
-
-
-* Visit http://localhost:3000 in your browser to see onspot citizen's application running.
-
-### Deploying 
-* In doubt to keep or not.
-
-
+ * Clone the respective repos of Citizen and Authority.
+ * Please refer the steps mentioned in the report. 
+ * Report link: https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report.pdf
+ * Visit http://localhost:3000 in your browser to see onspot citizen's application running.
 
 ### Future Scope
 * Severity based Direction Renderer.
