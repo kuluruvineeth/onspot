@@ -206,7 +206,7 @@ In case if you wish to contribute to the project, feel free to do so. Please rev
 * @create-react-app - https://reactjs.org/docs/create-a-new-react-app.html
 * @gh-pages - https://www.npmjs.com/package/gh-pages
 * @github - https://github.com
-* @trello - https://trell.com
+* @trello - https://trello.com
 * @figma - https://figma.com
 * @google-keep - https://keep.google.com
 * @npmjs - https://www.npmjs.com
