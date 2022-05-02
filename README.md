@@ -176,7 +176,7 @@ Link to Backend Source Code: https://github.com/kuluruvineeth/onspot.backend
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm.
  * Clone the respective repos of Citizen and Authority.
  * Please refer the steps mentioned in the report. 
- * Report link: [Onspot_Report](https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report.pdf)
+ * Report link: [Onspot_Report](https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report%20(1).pdf)
  * Visit http://localhost:3000 in your browser to see onspot citizen's application running.
 
 ### Future Scope
